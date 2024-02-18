@@ -1,4 +1,4 @@
-Validating "Attention-based CNN" for classification of ECG data
+**Validating "Attention-based CNN" for classification of ECG data**
 
 In this project, we have implemented the deep learning model proposed by Liu et al. in their paper for arrhythmia diagnosis using ECG signals. Arrhythmia is a heart condition which causes abnormal electrical impulses in the heart. Such irregularities cause improper blood circulation to the organs all over the body and could lead to heart attacks or strokes.
 
